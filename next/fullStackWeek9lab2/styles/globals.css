@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:wght@400;700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:wght@400;700&display=swap');*/
 
 * {
   box-sizing: border-box;
@@ -7,9 +7,14 @@
 body {
   font-family: 'Open Sans', 'Lato', sans-serif;
   margin: 0;
-  background-image: url('/images/myImage.jpg');
-  background-size: cover;
-  background-position: center;
+  /*background: linear-gradient(to bottom, #0f172a, #1e293b);*/
+  /*background: #0f172a;*/
+  /*background-image: radial-gradient(white 1px, transparent 1px), 
+                    radial-gradient(white 1px, transparent 1px);
+  background-size: 200px 200px, 300px 300px;
+  background-position: 0 0, 100px 100px;*/
+
+  
 }
 
 h1 {
